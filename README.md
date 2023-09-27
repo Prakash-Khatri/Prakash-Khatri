@@ -7,6 +7,7 @@ Passionate data enthusiast on a quest to unravel the stories hidden within the n
 
 ⦿ 🔭 I’m currently working on Data Cleaning , Data manipulation and visualization<br><br>⦿ 👯 I’m looking to collaborate on Business Problems<br><br>⦿ 🤝 I’m looking for help with DataSets<br><br>⦿ 🌱 I’m currently learning Machine Learning, Web Automation<br><br>⦿ 💬 Ask me about Data Exploration<br><br>⦿ ⚡ Fun fact, Why did the dataset apply for a job? Because it wanted to find its perfect match! 📊❤️<br><br>⦿ 🧠 I'm excited about exploring new data projects and collaborating with mentors and fellow data enthusiasts.
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/904433/screenshots/3304535/media/52e7fe830132a4d4d6ce7197cb1811c6.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-khatri-b082901a6) 
