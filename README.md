@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/904433/screenshots/3304535/media/52e7fe830132a4d4d6ce7197cb1811c6.gif)
+![MasterHead](https://cdn.dribbble.com/users/904433/screenshots/3304535/media/52e7fe830132a4d4d6ce7197cb1811c6.gif)
 
 <h1 align="center">Hi 👋, I'm Prakash Khatri</h1>
 <h2 align="left">📊 Data Analyst | 📈 Data Enthusiast | 🐍 Python Lover <h2>
