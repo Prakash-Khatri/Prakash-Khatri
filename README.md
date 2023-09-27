@@ -6,7 +6,7 @@
 Passionate data enthusiast on a quest to unravel the stories hidden within the numbers. From cleaning messy datasets to crafting insightful visualizations, I thrive on turning raw data into actionable insights. With a love for Python, SQL, and the art of storytelling through data, I'm here to share my data-driven adventures and contribute to the ever-evolving world of analytics.
 
 ⦿ 🔭 I’m currently working on **Data Cleaning , Data manipulation and visualization**<br><br>⦿ 👯 I’m looking to collaborate on **Business Problems**<br><br>⦿ 🤝 I’m looking for help with **DataSets**<br><br>⦿ 🌱 I’m currently learning **Machine Learning, Web Automation**<br><br>⦿ 💬 Ask me about **Data Exploration**<br><br>⦿ ⚡ Fun fact, **Why did the dataset apply for a job? Because it wanted to find its perfect match! 📊❤️**<br><br>⦿ 🧠 I'm excited about **exploring new data projects and collaborating with mentors and fellow data enthusiasts.**
-<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/2565022/screenshots/13928516/media/8f26a64d2a0656d3f18408484b1507d9.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanoxYnN6enI4ZjkydnIwcG5wdWc5ZDJxamtoejQ3cnN1dHA5Ym51bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-khatri-b082901a6) 
