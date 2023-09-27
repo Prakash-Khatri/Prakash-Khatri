@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/20368/screenshots/4012238/media/a527f691d3c789ed7618f1c3edea804c.gif)
+![MasterHead](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)
 
 # 💫 About Me:
 
