@@ -1,8 +1,10 @@
 [![MasterHead](https://cdn.dribbble.com/users/904433/screenshots/3304535/media/52e7fe830132a4d4d6ce7197cb1811c6.gif)
+
 <h1 align="center">Hi 👋, I'm Prakash Khatri</h1>
 <h2 align="left">📊 Data Analyst | 📈 Data Enthusiast | 🐍 Python Lover <h2>
 <h3>📚 As a data analyst, I have a passion for turning raw data into actionable insights. I thrive on uncovering hidden trends, solving complex problems, and making data-driven decisions. 🔬 My skills include data cleaning, visualization, statistical analysis, and machine learning. I'm proficient in Python, SQL, and data manipulation libraries like pandas. 🔍 You can find my data analysis projects and contributions right here on my GitHub profile. Feel free to explore my work and connect with me. Let's dive into the world of data together!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/904433/screenshots/3304535/media/52e7fe830132a4d4d6ce7197cb1811c6.gif">
+
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/904433/screenshots/3304535/media/52e7fe830132a4d4d6ce7197cb1811c6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-khatri&label=Profile%20views&color=ff0000&style=flat-square" alt="prakash-khatri" /> </p>
 
