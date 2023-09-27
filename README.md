@@ -1,18 +1,21 @@
-![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
+# 💫 About Me:
+🌱 I’m currently learning<br>
 
-<h1 align="center">Hi 👋, I'm Prakash Khatri</h1>
-<h2 align="left">📊 Data Analyst | 📈 Data Enthusiast | 🐍 Python Lover <h2>
-<h3>📚 As a data analyst, I have a passion for turning raw data into actionable insights. I thrive on uncovering hidden trends, solving complex problems, and making data-driven decisions. 🔬 My skills include data cleaning, visualization, statistical analysis, and machine learning. I'm proficient in Python, SQL, and data manipulation libraries like pandas. 🔍 You can find my data analysis projects and contributions right here on my GitHub profile. Feel free to explore my work and connect with me. Let's dive into the world of data together!</h3>
 
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/904433/screenshots/3304535/media/52e7fe830132a4d4d6ce7197cb1811c6.gif">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-khatri-b082901a6) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-khatri&label=Profile%20views&color=ff0000&style=flat-square" alt="prakash-khatri" /> </p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prakash-Khatri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prakash-Khatri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Khatri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **prakashkhatri657@gmail.com**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Prakash-Khatri&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
