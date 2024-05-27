@@ -5,7 +5,6 @@
 
 Passionate data enthusiast on a quest to unravel the stories hidden within the numbers. From cleaning messy datasets to crafting insightful visualizations, I thrive on turning raw data into actionable insights. With a love for Python, SQL, and the art of storytelling through data, I'm here to share my data-driven adventures and contribute to the ever-evolving world of analytics.
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
 ⦿ 🔭 I’m currently working on **Data Cleaning , Data manipulation and visualization**<br><br>⦿ 👯 I’m looking to collaborate on **Business Problems**<br><br>⦿ 🤝 I’m looking for help with **DataSets**<br><br>⦿ 🌱 I’m currently learning **Machine Learning, Web Automation**<br><br>⦿ 💬 Ask me about **Data Exploration**<br><br>⦿ ⚡ Fun fact, **Why did the dataset apply for a job? 
 Because it wanted to find its perfect match! 📊❤️**<br><br>⦿ 🧠 I'm excited about **exploring new data projects and collaborating with mentors and fellow data enthusiasts.**
